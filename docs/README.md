@@ -1,6 +1,8 @@
 Hi  :blush:
 
-My name is Brad Blackburn. I am a visual artist with over 10 years of experience in animation, advertising, print design/branding, digital marketing and web design. Although I currently reside in Boise, Idaho, I'm open to remote work and possible relocation with the right package. 
+My name is Brad Blackburn. I am a visual artist with over 10 years of experience in animation, advertising, print design/branding, digital marketing and web design.
+
+Although I currently reside in Boise, Idaho, I'm open to remote work and possible relocation with the right package. 
 
 ### Character Traits/Compatible Culture-Fit Qualities:
 - Formal Fine Arts Background
@@ -111,9 +113,13 @@ My name is Brad Blackburn. I am a visual artist with over 10 years of experienc
 - [A True Friend](https://vimeo.com/58496445)
    - Production Designer/Art Director
 - [GE: Comforts of Home (30s)](https://vimeo.com/29730828)
+   - Production Designer/Art Director
 - [GE: Plug It In](https://vimeo.com/29108460)
+   - Production Designer/Art Director
 - [Night of the Working Dead!](https://vimeo.com/60278044)
+   - Production Designer/Art Director
 - [The Working Dead: Attack & Credits](https://vimeo.com/60283221)
+   - Production Designer/Art Director
 
 ### Find Me & Reach Out:
 - [Brad Blackburn LinkedIn](https://linkedin.com/in/bradblackburn)
