@@ -1,6 +1,6 @@
 Hi  :blush:
 
-My name is Brad Blackburn. I am a visual artist with over 10 years of experience in animation, advertising, print design/branding, digital marketing and web design.
+My name is Brad Blackburn. I am a visual artist with over 10 years of experience in animation, advertising, print design/branding, digital marketing and web design. 
 
 Although I currently reside in Boise, Idaho, I'm open to remote work and possible relocation with the right package. 
 
