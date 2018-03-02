@@ -90,7 +90,7 @@ My name is Brad Blackburn. I am a visual artist with over 10 years of experienc
 - Runtime Environments for Development
 - Git and other SVNs
 
-### Direct Links to My Work:
+### Direct Links to My Video Work:
 
 - [Echo Logo Stinger](https://vimeo.com/247061939)
    - Animator | Cinema 4D, Adobe After Effects, GenArts Sapphire
@@ -98,59 +98,33 @@ My name is Brad Blackburn. I am a visual artist with over 10 years of experienc
   - VFX Supervisor | Cinema 4D, Adobe After Effects
 - [BankruptingPA- The Story of Spending](https://vimeo.com/247070995)
    - Animator/Art Director | Adobe Illustrator, Adobe After Effects, Cinema 4D
+- [BCI Explainer Video](https://vimeo.com/247866397)
+   - Animator/Art Director | Adobe Illustrator, Adobe After Effects
+- [War on Drugs](https://vimeo.com/247073163)
+   - Animator/Art Director | Adobe Illustrator, Adobe After Effects
+- [The Great Experiment](https://vimeo.com/247070847)
+   - Animator/Art Director | Adobe After Effects, Cinema 4D
+- [The Power of the Purse](https://vimeo.com/247070861)
+   - Animator/Art Director | Adobe After Effects, Adobe Illustrator
+- [Station Auto Wash](https://vimeo.com/247070995)
+   - Director/Editor/Videographer | Apple Final Cut Studio
+- [A True Friend](https://vimeo.com/58496445)
+   - Production Designer/Art Director
+- [GE: Comforts of Home (30s)](https://vimeo.com/29730828)
+- [GE: Plug It In](https://vimeo.com/29108460)
+- [Night of the Working Dead!](https://vimeo.com/60278044)
+- [The Working Dead: Attack & Credits](https://vimeo.com/60283221)
 
-• BCI Explainer Video - https://vimeo.com/247866397
-- Animator/Art Director | Adobe Illustrator, Adobe After Effects
-
-• War on Drugs - https://vimeo.com/247073163
- - Animator/Art Director | Adobe Illustrator, Adobe After Effects
-
-• The Great Experiment - https://vimeo.com/247070847
-- Animator/Art Director | Adobe After Effects, Cinema 4D
-
-• The Power of the Purse - https://vimeo.com/247070861
-- Animator/Art Director | Adobe After Effects, Adobe Illustrator
-
-• Station Auto Wash - https://vimeo.com/247070995
-- Director/Editor/Videographer | Apple Final Cut Studio
-
-
-•A True Friend - https://vimeo.com/58496445
-- Production Designer/Art Director
-
-PRODUCTION DESIGNER / ART DIRECTOR
-
-GE: Comforts of Home (30s) - https://vimeo.com/29730828
-
-GE: Plug It In - https://vimeo.com/29108460
-
-Night of the Working Dead! - https://vimeo.com/60278044
-
-The Working Dead: Attack & Credits - https://vimeo.com/60283221
-
-
-Please also note the links below and my attached resumé.  Thank you for your consideration regarding my candidacy for the Motion Designer position, and I hope to have the opportunity to discuss it in more detail during an interview.
+### Find Me & Reach Out:
+- [Brad Blackburn LinkedIn](https://linkedin.com/in/bradblackburn)
+- [Portfolio Website](https://iambradblackburn.com)
+- [My Vimeo Collection](https://vimeo.com/iambradblackburn)
+- [Behance](https://behance.net/b2bstudios.com)
+- [Krop Profile](https://krop.com/profile/b2bstudios)
+- [External Portfolio](https://bradblackburn.myportfolio.com)
+- [GitHub](https://github.com/iambradblackburn)
+- [CodePen](https://codepen.io/iambradblackburn/)
 
 
 Sincerely,
-
-Brad Blackburn
-
-
-www.linkedin.com/in/bradblackburn
-
-www.iambradblackburn.com
-
-www.vimeo.com/iambradblackburn
-
-www.behance.net/b2bstudios.com
-
-www.krop.com/profile/b2bstudios
-
-https://bradblackburn.myportfolio.com
-
-www.github.com/iambradblackburn
-
-https://codepen.io/iambradblackburn/
-
-
+Brad Blackburn 😎
